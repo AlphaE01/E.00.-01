@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <Mail size={18} className="mr-2" />
-                <a href="mailto:info@engineeringsociety.com" className="text-gray-400 hover:text-white transition-colors duration-200">info@engineeringsociety.com</a>
+                <a href="mailto:taylorsengineering2021@gmail.com" className="text-gray-400 hover:text-white transition-colors duration-200">taylorsengineering2021@gmail.com</a>
               </li>
               <li className="flex items-center">
                 <MapPin size={18} className="mr-2" />
