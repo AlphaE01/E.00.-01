@@ -4,28 +4,28 @@ import { motion } from 'framer-motion';
 const Team: React.FC = () => {
   const teamMembers = [
     {
-      name: "Sarah Lee",
+      name: "Sharat",
       role: "President",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      bio: "Final year Mechanical Engineering student with a passion for sustainable energy solutions."
+      image: "https://drive.google.com/file/d/1gDKh18IkcMdFl87XL0wRqJ7f9gIKTe07/view?usp=drive_link",
+      bio: "Engineering Student"
     },
     {
-      name: "David Chen",
+      name: "Hrithvik",
       role: "Vice President",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      bio: "Third-year Electrical Engineering student specializing in robotics and automation."
+      image: "https://drive.google.com/file/d/17w0h--gJ-8BMex_6_m405N7KlANFfDnp/view?usp=drive_link",
+      bio: "Computer Science Student"
     },
     {
-      name: "Aisha Patel",
+      name: "Khujaev",
       role: "Secretary",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      bio: "Chemical Engineering student with a keen interest in bioengineering and environmental sustainability."
+      image: "https://drive.google.com/file/d/1mbDCYEVHXPcFp38l7yhnk7id_5nPlipE/view?usp=drive_link",
+      bio: "Computer Science Student"
     },
     {
-      name: "Michael Wong",
+      name: "Lohith",
       role: "Treasurer",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80",
-      bio: "Civil Engineering student focusing on smart city infrastructure and urban planning."
+      image: "",
+      bio: "Engineering Student"
     }
   ];
 
